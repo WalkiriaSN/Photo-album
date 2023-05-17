@@ -1,0 +1,26 @@
+body {
+    margin: 0%;
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+}
+
+.container {
+   
+    margin-top: 2em;
+    justify-content: space-around;
+    
+}
+
+.container2{
+    text-align: center;
+}
+
+.container3{
+    text-align: center;
+}
